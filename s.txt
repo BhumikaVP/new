@@ -2,3 +2,6 @@ git
 clonr
 dguihdk
 
+hi 
+hello 
+globally
